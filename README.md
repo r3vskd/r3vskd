@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r3vskd" alt="r3vskd" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/r3vskd" target="blank"><img src="https://img.shields.io/twitter/follow/r3vskd?logo=twitter&style=for-the-badge" alt="r3vskd" /></a> </p>
-
 - 🌱 **I’m currently working on developing my  startup, studying for my google cybersecurity certification, learning Django, and some pentesting skills like Active directory and lateral movement**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/r3vskd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r3vskd" height="30" width="40" /></a>
+  <p align="left"> <a href="https://twitter.com/r3vskd" target="blank"><img src="https://img.shields.io/twitter/follow/r3vskd?logo=twitter&style=for-the-badge" alt="r3vskd" /></a> </p>
+  <a href="https://twitter.com/r3vskd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r3vskd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
