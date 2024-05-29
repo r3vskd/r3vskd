@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/r3vskd" target="blank"><img src="https://img.shields.io/twitter/follow/r3vskd?logo=twitter&style=for-the-badge" alt="r3vskd" /></a> </p>
 
-- 🔭 I’m currently working on **my secret startup**
-
-- 🌱 I’m currently learning **Django, C++, and some pentesting skills like Active directory and lateral movement**
+- 🌱 **I’m currently working on developing my  startup, studying for my google cybersecurity certification, learning Django, and some pentesting skills like Active directory and lateral movement**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
