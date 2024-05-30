@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3vskd&label=Profile%20views&color=0e75b6&style=flat" alt="r3vskd" /> </p>
 
-- 🌱 **I’m currently working on developing my  startup, studying for my google cybersecurity certification, learning Django, and some pentesting skills like Active directory and lateral movement**
+🌱 **I’m currently working on developing my  startup, studying for my google cybersecurity certification, learning Django, and some pentesting skills like Active directory and lateral movement**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
