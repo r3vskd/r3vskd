@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" **alt="Neovim" width="40" height="40"/>
 
-  <img src="https://github.com/Zsh-art/logo/blob/main/svg/color_vertical_icon.svg" title="zsh" alt="zsh" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Zsh-art/logo/blob/main/svg/white_horizontal_icon.svg" title="zsh" alt="zsh" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/600px-Vmware_workstation_16_icon.svg.png" title="vmware"  alt="vmware" width="40" height="40"/>&nbsp;
   
