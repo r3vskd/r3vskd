@@ -41,7 +41,20 @@
 
 <h2 align="left"> :fire: Hacking Tools:</h2>
 <div>
-  <img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" title="Firebase" alt="Active Directory" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/dev/static/nuclei-logo.png" title="nuclei" alt="nuclei" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/b7d1a0231e8d717ab0ce864a95b8d60e423da5443db024afbf3bcc5ce9066517/68747470733a2f2f6769746c61622e636f6d2f75706c6f6164732f2d2f73797374656d2f70726f6a6563742f6176617461722f34303039303535342f6b616c692d6275727073756974652e706e67" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/b2fc254ab422107ffbd38ce2d30d371c5358384b174022584cebe710393e5571/68747470733a2f2f7777772e6b616c692e6f72672f746f6f6c732f6d65746173706c6f69742d6672616d65776f726b2f696d616765732f6d65746173706c6f69742d6672616d65776f726b2d6c6f676f2e737667" title="Metasploit" alt="Metasploit" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/7842f6c9fb3b5afd4ddbba2bda7dc26fdcd3d4cd0dfeefd2aef1cbd470eea8c2/68747470733a2f2f7777772e6b616c692e6f72672f746f6f6c732f68796472612f696d616765732f68796472612d6c6f676f2e737667" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" title="Hydra" alt="Hydra" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3vskd&show_icons=true&locale=en" alt="r3vskd" /></p>
