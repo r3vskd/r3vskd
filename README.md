@@ -27,11 +27,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" **alt="Neovim" width="40" height="40"
-
   <img src="https://github.com/Zsh-art/logo/blob/main/svg/white_horizontal_icon.svg" title="zsh" alt="zsh" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/600px-Vmware_workstation_16_icon.svg.png" title="vmware"  alt="vmware" width="40" height="40"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django"  alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gtilab" alt="gitlab" width="40" height="40"/>&nbsp;
@@ -40,10 +38,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 </div>
+
 <h2 align="left"> :fire: Hacking Tools:</h2>
 <div>
   <img src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg" title="Firebase" alt="Active Directory" width="40" height="40"/>&nbsp;
 </div>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3vskd&show_icons=true&locale=en" alt="r3vskd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r3vskd&" alt="r3vskd" /></p>
