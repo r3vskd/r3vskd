@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm r3vskd</h1>
+<h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A Entrepreneur and Hacker from México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3vskd&label=Profile%20views&color=0e75b6&style=flat" alt="r3vskd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r3vskd" alt="r3vskd" /></a> </p>
 
 - 🌱 **I’m currently working on developing my  startup, studying for my google cybersecurity certification, learning Django, and some pentesting skills like Active directory and lateral movement**
 
