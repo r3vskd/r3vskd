@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3vskd&label=Profile%20views&color=0e75b6&style=flat" alt="r3vskd" /> </p>
 
 🌱<p align="left"> **I’m currently:** </p>
-:books:<p align="left"> **Studying for my google cybersecurity certification** </p>
+<p align="left"> :books: **Studying for my google cybersecurity certification** </p>
 :new_moon: <p align="left"> **Developing my Tech Startup** </p>
 :cloud: <p align="left"> **Learning some pentesting skills like Microsoft Active directory and lateral movement on: https://academy.hackthebox.com/course/preview/active-directory-ldap** </p>
 :palm_tree: <p align="left"> **Learning about Django** </p>
