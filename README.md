@@ -6,8 +6,8 @@
 <h2 align="center"> :seedling: I’m currently: </h3>
 <h3 align="center"> :books: Studying for my google cybersecurity certification </h3>
 <h3 align="center"> :new_moon:  Developing my Tech Startup </h3>
-<h3 align="center"> :cloud:  Learning some pentesting skills like Microsoft Active directory and lateral movement on:</h3> 
-<a href="https://academy.hackthebox.com/course/preview/active-directory-ldap"><img src="https://www.svgrepo.com/show/331423/hack-the-box.svg" alt="Hack The Box" title="go" alt="go" width="30" height="30"/></a>
+<h3 align="center"> :cloud:  Learning some pentesting skills like Microsoft Active directory and lateral movement on: <a href="https://academy.hackthebox.com/course/preview/active-directory-ldap"><img src="https://www.svgrepo.com/show/331423/hack-the-box.svg" alt="Hack The Box" title="go" alt="go" width="30" height="30"/></a> </h3> 
+
 <h3 align="center"> :palm_tree:  Learning about Django </h3>
 
 <h2 align="left">Connect with me:</h2>
