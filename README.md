@@ -10,11 +10,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3vskd&theme=ambient_gradient&show_icons=true" alt="r3vskd" /></p>
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-  <p align="center"> <a href="https://twitter.com/r3vskd" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="r3vskd" /></a> </p>
-</p>
-
 <h2 align="center"> :hammer_and_wrench: Skills on Technologies & languages:</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -66,3 +61,8 @@
   <img src="https://camo.githubusercontent.com/ba2a03fd5d4ce6cddf42868f680d68aa69f27316c146a4ce4a01865f216f96cd/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f333035332f504e472f3531322f6f6273696469616e5f616c745f6d61636f735f6269677375725f69636f6e5f3138393838372e706e67" title="Obsidian" alt="Obsidian" width="40" height="40"/>&nbsp;
     <img src="https://www.svgrepo.com/show/353904/insomnia.svg" title="Insomnia" alt="Insomnia" width="40" height="40"/>&nbsp;
 </div>
+
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+  <p align="center"> <a href="https://twitter.com/r3vskd" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="r3vskd" /></a> </p>
+</p>
