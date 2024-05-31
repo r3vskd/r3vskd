@@ -37,6 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/awk/awk-original-wordmark.svg" title="awk" alt="awk" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" title="Github Desktop" alt="Github Desktop" width="40" height="40"/>&nbsp;
 </div>
 
 <h2 align="left"> :fire: Hacking Tools:</h2>
@@ -57,7 +58,7 @@
   <img src="https://camo.githubusercontent.com/902d793bebee5703f3e33fa00184852fa975bb7e61a4370d7d949954bd40a958/68747470733a2f2f7777772e6b616c692e6f72672f746f6f6c732f686173686361742f696d616765732f686173686361742d6c6f676f2e737667" title="Hashcat" alt="Hashcat" width="40" height="40"/>&nbsp;
   <img src="https://camo.githubusercontent.com/0493df883e8c78a1a1382665d5cb5c5af69d3b1324c643d56ff83bc12126d54e/68747470733a2f2f7777772e6b616c692e6f72672f746f6f6c732f6d616c7465676f2f696d616765732f6d616c7465676f2d6c6f676f2e737667" title="Maltego" alt="Maltego" width="40" height="40"/>&nbsp;
   <img src="https://camo.githubusercontent.com/ba2a03fd5d4ce6cddf42868f680d68aa69f27316c146a4ce4a01865f216f96cd/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f333035332f504e472f3531322f6f6273696469616e5f616c745f6d61636f735f6269677375725f69636f6e5f3138393838372e706e67" title="Obsidian" alt="Obsidian" width="40" height="40"/>&nbsp;
-    <img src="https://www.svgrepo.com/show/353904/insomnia.svg" title="Obsidian" alt="Obsidian" width="40" height="40"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/353904/insomnia.svg" title="Insomnia" alt="Insomnia" width="40" height="40"/>&nbsp;
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3vskd&show_icons=true&locale=en" alt="r3vskd" /></p>
