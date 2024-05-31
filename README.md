@@ -67,4 +67,5 @@
     <img src="https://www.svgrepo.com/show/353904/insomnia.svg" title="Insomnia" alt="Insomnia" width="40" height="40"/>&nbsp;
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3vskd&show_icons=true&locale=en" alt="r3vskd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3vskd&theme=dark&show_icons=true" alt="r3vskd" /></p>
+
