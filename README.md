@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3vskd&label=Profile%20views&color=0e75b6&style=flat" alt="r3vskd" /> </p>
 
-🌱 **I’m currently working on developing my  startup, studying for my google cybersecurity certification, learning Django, and some pentesting skills like Active directory and lateral movement**
+🌱 **I’m currently: 
+       :books: Studying for my google cybersecurity certification
+       :new_moon: Developing my Tech Startup 
+       :cloud: Learning some pentesting skills like Microsoft Active directory and lateral movement on: https://academy.hackthebox.com/course/preview/active-directory-ldap
+       :palm_tree: Learning about Django**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
