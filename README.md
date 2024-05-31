@@ -37,6 +37,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" title="Github Desktop" alt="Github Desktop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/awk/awk-original-wordmark.svg" title="awk" alt="awk" width="40" height="40"/>&nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/ssh-icon.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;
 </div>
 
 <h2 align="left"> :fire: Hacking Tools:</h2>
