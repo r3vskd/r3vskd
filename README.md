@@ -14,7 +14,7 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <p align="center"> <a href="https://twitter.com/r3vskd" target="blank"><img src="https://img.shields.io/twitter/follow/r3vskd?logo=twitter&style=for-the-badge" alt="r3vskd" /></a> </p>
+  <p align="center"> <a href="https://twitter.com/r3vskd" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="r3vskd" /></a> </p>
 </p>
 
 <h2 align="center"> :hammer_and_wrench: Skills on Technologies & languages:</h2>
