@@ -1,8 +1,6 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=r3vskd&color=blueviolet&style=plastic" alt="r3vskd" /> </p>
 <h1 align="center">Hi :v:, I'm Miguel</h1>
 <h1 align="center">A tech entrepreneur and hacker from México</h2>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=r3vskd&color=blueviolet&style=plastic" alt="r3vskd" /> </p>
-
 <h2 align="center"> :seedling: I’m currently: </h3>
 <h3 align="center"> :books: Studying for my google cybersecurity certification </h3>
 <h3 align="center"> :new_moon:  Developing my Tech Startup </h3>
