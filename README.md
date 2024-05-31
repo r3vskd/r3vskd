@@ -62,5 +62,3 @@
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3vskd&show_icons=true&locale=en" alt="r3vskd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r3vskd&" alt="r3vskd" /></p>
