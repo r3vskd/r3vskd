@@ -8,7 +8,7 @@
 <h3 align="center"> :new_moon:  Developing my Tech Startup </h3>
 <h3 align="center"> :cloud:  Learning some pentesting skills like Microsoft Active directory and lateral movement on: <a href="https://academy.hackthebox.com/course/preview/active-directory-ldap"><img src="https://www.svgrepo.com/show/331423/hack-the-box.svg" alt="Hack The Box" title="Hack The Box" alt="Hack The Box" width="45" height="45"/></a> </h3> 
 
-<h3 align="center"> :palm_tree:  Learning about Django </h3>
+<h3 align="center"> :palm_tree: In my free time i'm learning about Django, Go, and boosting my currently hacking skills.</h3>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
