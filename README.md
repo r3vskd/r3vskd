@@ -15,7 +15,7 @@
   <p align="left"> <a href="https://twitter.com/r3vskd" target="blank"><img src="https://img.shields.io/twitter/follow/r3vskd?logo=twitter&style=for-the-badge" alt="r3vskd" /></a> </p>
 </p>
 
-<h2 align="left"> :hammer_and_wrench: Technologies, languages & frameworks:</h2>
+<h2 align="left"> :hammer_and_wrench: Skills on Technologies & languages:</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
@@ -45,7 +45,7 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/ssh-icon.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;
 </div>
 
-<h2 align="left"> :fire: Hacking Tools:</h2>
+<h2 align="left"> :fire: Skills on Hacking Tools:</h2>
 <div>
   <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
   <img src="https://camo.githubusercontent.com/b7d1a0231e8d717ab0ce864a95b8d60e423da5443db024afbf3bcc5ce9066517/68747470733a2f2f6769746c61622e636f6d2f75706c6f6164732f2d2f73797374656d2f70726f6a6563742f6176617461722f34303039303535342f6b616c692d6275727073756974652e706e67" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
