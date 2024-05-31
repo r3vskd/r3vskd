@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
-<h3 align="center">A Entrepreneur and Hacker from México</h3>
+<h2 align="center">A Entrepreneur and Hacker from México</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3vskd&label=Profile%20views&color=0e75b6&style=flat" alt="r3vskd" /> </p>
 
 🌱 **I’m currently working on developing my  startup, studying for my google cybersecurity certification, learning Django, and some pentesting skills like Active directory and lateral movement**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <p align="left"> <a href="https://twitter.com/r3vskd" target="blank"><img src="https://img.shields.io/twitter/follow/r3vskd?logo=twitter&style=for-the-badge" alt="r3vskd" /></a> </p>
 </p>
