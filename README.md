@@ -1,4 +1,4 @@
-<h1 align="center">Hi </h1> :v:, <h1 align="center"> I'm Miguel</h1>
+<h1 align="center">Hi :v:, I'm Miguel</h1>
 <h1 align="center">A tech entrepreneur and hacker from México</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=r3vskd&label=Profile%20views&color=0e75b6&style=flat" alt="r3vskd" /> </p>
