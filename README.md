@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
-<h1 align="center">A Entrepreneur and Hacker from México</h2>
+<h1 align="center">A tech entrepreneur and hacker from México</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=r3vskd&label=Profile%20views&color=0e75b6&style=flat" alt="r3vskd" /> </p>
 
