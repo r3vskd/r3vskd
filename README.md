@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=r3vskd&color=blueviolet&style=plastic" alt="r3vskd" /> </p>
-<h1 align="center">Hi :octocat:, I'm Miguel</h1>
+<h1 align="center">Hi :v:, I'm Miguel</h1>
 <h1 align="center">A tech entrepreneur and hacker from México</h2>
-<h2 align="center"> :seedling: I’m currently: </h3>
+<h2 align="center"> :octocat: I’m currently: </h3>
 <h3 align="center"> :books: Studying for my google cybersecurity certification </h3>
 <h3 align="center"> :new_moon:  Developing my Tech Startup </h3>
 <h3 align="center"> :cloud:  Learning some pentesting skills like Microsoft Active directory and lateral movement on: <a href="https://academy.hackthebox.com/course/preview/active-directory-ldap"><img src="https://www.svgrepo.com/show/331423/hack-the-box.svg" alt="Hack The Box" title="Hack The Box" alt="Hack The Box" width="45" height="45"/></a> </h3> 
