@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3vskd&label=Profile%20views&color=0e75b6&style=flat" alt="r3vskd" /> </p>
 
-🌱<p align="left"> **I’m currently:** </p>
-<p align="left"> :books: **Studying for my google cybersecurity certification** </p>
-:new_moon: <p align="left"> **Developing my Tech Startup** </p>
-:cloud: <p align="left"> **Learning some pentesting skills like Microsoft Active directory and lateral movement on: https://academy.hackthebox.com/course/preview/active-directory-ldap** </p>
-:palm_tree: <p align="left"> **Learning about Django** </p>
+<h2 align="center" :seedling: **I’m currently:** </h2>
+<h2 align="center" :books: **Studying for my google cybersecurity certification** </h2>
+<h2 align="center" :new_moon:  **Developing my Tech Startup** </h2>
+<h2 align="center" :cloud:  **Learning some pentesting skills like Microsoft Active directory and lateral movement on: https://academy.hackthebox.com/course/preview/active-directory-ldap** </h2>
+<h2 align="center" :palm_tree:  **Learning about Django** </h2>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
