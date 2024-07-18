@@ -3,7 +3,7 @@
 <h1 align="center">A programmer and hacker from México</h2>
 <h2 align="center"> :octocat: I’m currently: </h3>
 <h3 align="center"> :books: Studying for Dante in Hack The Box</h3>
-<h3 align="center"> :new_moon:  Developing a BIG project </h3>
+<h3 align="center"> :new_moon:  Leading the development of a startup </h3>
 <h3 align="center"> :cloud:  Learning some pentesting skills like Microsoft Active directory and lateral movement on: <a href="https://academy.hackthebox.com/course/preview/active-directory-ldap"><img src="https://www.svgrepo.com/show/331423/hack-the-box.svg" alt="Hack The Box" title="Hack The Box" alt="Hack The Box" width="45" height="45"/></a> </h3> 
 
 <h3 align="center"> :palm_tree: In my free time i'm learning about Django, Go, and boosting my currently hacking skills.</h3>
