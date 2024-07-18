@@ -8,8 +8,6 @@
 
 <h3 align="center"> :palm_tree: In my free time i'm learning about Django, Go, and boosting my currently hacking skills.</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3vskd&theme=ambient_gradient&show_icons=true" alt="r3vskd" /></p>
-
 <h2 align="center"> :hammer_and_wrench: Skills :point_right: Technologies & languages:</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
