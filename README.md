@@ -8,6 +8,8 @@
 
 <h3 align="center"> :palm_tree: In my free time i'm learning about Django, Go, and boosting my currently hacking skills.</h3>
 
+https://camo.githubusercontent.com/62b438d4f8a49dbf31289ec2bd6b6c7271fa1aff6ad690c435a9d0e3d85e56d6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261
+
 <h2 align="center"> :hammer_and_wrench: Skills :point_right: Technologies & languages:</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
