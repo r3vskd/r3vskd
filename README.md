@@ -8,7 +8,7 @@
 
 <h3 align="center"> :palm_tree: In my free time i'm learning about Django, Go, and boosting my currently hacking skills.</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3vskd_icons=true&theme=radical)](https://github.com/SrGobi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3vskd_theme=radical)](https://github.com/SrGobi/github-readme-stats)
 
 <h2 align="center"> :hammer_and_wrench: Skills :point_right: Technologies & languages:</h2>
 <div>
