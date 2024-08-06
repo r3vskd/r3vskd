@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=r3vskd&color=blueviolet&style=plastic" alt="r3vskd" /> </p>
 <h1 align="center">Hi :v:, I'm Miguel</h1>
-<h1 align="center">A programmer and hacker from México</h2>
+<h1 align="center">A Developer and hacker from México</h2>
 <h2 align="center"> :octocat: I’m currently: </h3>
 <h3 align="center"> :new_moon:  Leading the development of a startup </h3>
 <h3 align="center"> :books: Studying for Dante in Hack The Box</h3>
