@@ -13,7 +13,7 @@
 <h2 align="center"> :hammer_and_wrench: Skills :point_right: Technologies & languages</h2>
 <div>
   <p align="center">
-  <a href="https://skillicons.dev">
+  <a align="center" href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,neovim,html,css,js,py,go,git,github,gitlab,nodejs,bootstrap,docker,solidity,django,powershell,firebase,discord,obsidian" />
   </a>
 </p>
