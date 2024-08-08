@@ -40,5 +40,5 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <p align="center"> <a href="https://twitter.com/r3vskd" target="blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-round-icon.png" alt="r3vskd" /></a> </p>
+  <p align="center"> <a href="https://twitter.com/r3vskd" target="blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-round-icon.png" alt="r3vskd" width="40" height="40"/></a> </p>
 </p>
