@@ -21,7 +21,7 @@
 
 <h2 align="center"> :fire: Skills :point_right: Hacking Tools:</h2>
 <div align="center">
-  <img src="https://w7.pngwing.com/pngs/4/1015/png-transparent-active-directory-microsoft-azure-lightweight-directory-access-protocol-user-advertising-angle-cloud-computing-microsoft-thumbnail.png" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
+  <img src="https://marketplace.radiantlogic.com/wp-content/uploads/bw_store_facet_images/bw_ad_controls_bw_ad_controls-900x0.png" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
   <img src="https://adriancitu.com/wp-content/uploads/2024/03/burp_suite_macos.png" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
   <img src="https://camo.githubusercontent.com/b2fc254ab422107ffbd38ce2d30d371c5358384b174022584cebe710393e5571/68747470733a2f2f7777772e6b616c692e6f72672f746f6f6c732f6d65746173706c6f69742d6672616d65776f726b2f696d616765732f6d65746173706c6f69742d6672616d65776f726b2d6c6f676f2e737667" title="Metasploit" alt="Metasploit" width="40" height="40"/>&nbsp;
   <img src="https://camo.githubusercontent.com/7842f6c9fb3b5afd4ddbba2bda7dc26fdcd3d4cd0dfeefd2aef1cbd470eea8c2/68747470733a2f2f7777772e6b616c692e6f72672f746f6f6c732f68796472612f696d616765732f68796472612d6c6f676f2e737667" title="Hydra" alt="Hydra" width="40" height="40"/>&nbsp;
