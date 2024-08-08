@@ -14,19 +14,19 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" **alt="Neovim" width="40" height="40"
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Boostrap" alt="Boostrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS"  alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" **alt="Neovim" width="40" height="40"
   <img src="https://github.com/Zsh-art/logo/blob/main/svg/white_horizontal_icon.svg" title="zsh" alt="zsh" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/600px-Vmware_workstation_16_icon.svg.png" title="vmware"  alt="vmware" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django"  alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gtilab" alt="gitlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
@@ -35,7 +35,7 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/ssh-icon.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" title="Insomnia" alt="Insomnia" width="40" height="40"/>&nbsp;
-    <img src="https://camo.githubusercontent.com/ba2a03fd5d4ce6cddf42868f680d68aa69f27316c146a4ce4a01865f216f96cd/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f333035332f504e472f3531322f6f6273696469616e5f616c745f6d61636f735f6269677375725f69636f6e5f3138393838372e706e67" title="Obsidian" alt="Obsidian" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/ba2a03fd5d4ce6cddf42868f680d68aa69f27316c146a4ce4a01865f216f96cd/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f333035332f504e472f3531322f6f6273696469616e5f616c745f6d61636f735f6269677375725f69636f6e5f3138393838372e706e67" title="Obsidian" alt="Obsidian" width="40" height="40"/>&nbsp;
 </div>
 
 <h2 align="center"> :fire: Skills :point_right: Hacking Tools:</h2>
