@@ -14,13 +14,13 @@
 <div>
   <p align="center">
   <a align="center" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,neovim,html,css,js,py,go,git,github,gitlab,nodejs,bootstrap,docker,solidity,django,powershell,firebase,discord,obsidian" />
+    <img align="center" src="https://skillicons.dev/icons?i=linux,bash,neovim,html,css,js,py,go,git,github,gitlab,nodejs,bootstrap,docker,solidity,django,powershell,firebase,discord,obsidian" />
   </a>
 </p>
 </div>
 
 <h2 align="center"> :fire: Skills :point_right: Hacking Tools:</h2>
-<div>
+<div align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/active-directory-1.svg" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
   <img src="https://camo.githubusercontent.com/b7d1a0231e8d717ab0ce864a95b8d60e423da5443db024afbf3bcc5ce9066517/68747470733a2f2f6769746c61622e636f6d2f75706c6f6164732f2d2f73797374656d2f70726f6a6563742f6176617461722f34303039303535342f6b616c692d6275727073756974652e706e67" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
   <img src="https://camo.githubusercontent.com/b2fc254ab422107ffbd38ce2d30d371c5358384b174022584cebe710393e5571/68747470733a2f2f7777772e6b616c692e6f72672f746f6f6c732f6d65746173706c6f69742d6672616d65776f726b2f696d616765732f6d65746173706c6f69742d6672616d65776f726b2d6c6f676f2e737667" title="Metasploit" alt="Metasploit" width="40" height="40"/>&nbsp;
