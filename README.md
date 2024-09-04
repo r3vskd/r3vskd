@@ -21,7 +21,7 @@
 
 <h2 align="center"> :fire: Skills :point_right: Hacking Tools:</h2>
 <div align="center">
-  <img src="https://marketplace.radiantlogic.com/wp-content/uploads/bw_store_facet_images/bw_ad_controls_bw_ad_controls-900x0.png" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
   <img src="https://adriancitu.com/wp-content/uploads/2024/03/burp_suite_macos.png" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
   <img src="https://w7.pngwing.com/pngs/122/777/png-transparent-metasploit-project-penetration-test-security-hacker-computer-security-shellcode-ruby-blue-angle-logo.png" title="Metasploit" alt="Metasploit" width="40" height="40"/>&nbsp;
   <img src="https://e7.pngegg.com/pngimages/465/307/png-clipart-hydra-brute-force-attack-security-hacker-password-cracking-computer-security-hacker-dragon-fictional-character.png" title="Hydra" alt="Hydra" width="40" height="40"/>&nbsp;
