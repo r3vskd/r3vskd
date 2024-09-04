@@ -37,7 +37,7 @@
   <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" title="Maltego" alt="Maltego" width="40" height="40"/>&nbsp;
 </div>
 
-<h2 align="center">Connect with me:D</h2>
+<h2 align="center">Connect with me</h2>
 <p align="center">
   <p align="center"> <a href="https://twitter.com/r3vskd" target="blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-round-icon.png" alt="r3vskd" width="40" height="40"/></a> </p>
 </p>
