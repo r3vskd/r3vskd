@@ -21,21 +21,20 @@
 
 <h2 align="center"> :fire: Skills :point_right: Hacking Tools:</h2>
 <div align="center">
-  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Active Directory" alt="Active Directory" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/122/777/png-transparent-metasploit-project-penetration-test-security-hacker-computer-security-shellcode-ruby-blue-angle-logo.png" title="Metasploit" alt="Metasploit" width="40" height="40"/>&nbsp;
-  <img src="https://e7.pngegg.com/pngimages/465/307/png-clipart-hydra-brute-force-attack-security-hacker-password-cracking-computer-security-hacker-dragon-fictional-character.png" title="Hydra" alt="Hydra" width="40" height="40"/>&nbsp;
-  <img src="https://hakin9.org/wp-content/uploads/2019/12/ffuf_run_logo_600-2.png" title="ffuf" alt="ffuf" width="40" height="40"/>&nbsp;
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit" alt="Metasploit" width="40" height="40"/>&nbsp;
+  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" title="Hydra" alt="Hydra" width="40" height="40"/>&nbsp;
+  <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" title="ffuf" alt="ffuf" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" title="Mimikatz" alt="Mimikatz" width="40" height="40"/>&nbsp;
-  <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" title="Sqlmap" alt="Sqlmap" width="40" height="40"/>&nbsp;
+  <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" title="Sqlmap" alt="Sqlmap" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg" title="Beef" alt="Beef" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/medusa/images/medusa-logo.svg" title="Medusa" alt="Medusa" width="40" height="40"/>&nbsp;
-  <img src="" title="Wfuzz" alt="Wfuzz" width="40" height="40"/>&nbsp;
-  <img src="" title="Netcat" alt="Netcat" width="40" height="40"/>&nbsp;
-  <img src="" title="Johntheripper" alt="Johntheripper" width="40" height="40"/>&nbsp;
-  <img src="" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
-  <img src="" title="Hashcat" alt="Hashcat" width="40" height="40"/>&nbsp;
-  <img src="" title="Maltego" alt="Maltego" width="40" height="40"/>&nbsp;
+  <img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" title="Wfuzz" alt="Wfuzz" width="40" height="40"/>&nbsp;
+  <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" title="Netcat" alt="Netcat" width="40" height="40"/>&nbsp;
+  <img src="https://www.kali.org/tools/john/images/john-logo.svg" title="Johntheripper" alt="Johntheripper" width="40" height="40"/>&nbsp;
+  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
+  <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" title="Hashcat" alt="Hashcat" width="40" height="40"/>&nbsp;
+  <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" title="Maltego" alt="Maltego" width="40" height="40"/>&nbsp;
 </div>
 
 <h2 align="center">Connect with me:D</h2>
