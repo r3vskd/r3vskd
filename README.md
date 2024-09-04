@@ -29,7 +29,6 @@
   <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" title="Sqlmap" alt="Sqlmap" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg" title="Beef" alt="Beef" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/medusa/images/medusa-logo.svg" title="Medusa" alt="Medusa" width="40" height="40"/>&nbsp;
-  <img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" title="Wfuzz" alt="Wfuzz" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" title="Netcat" alt="Netcat" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/john/images/john-logo.svg" title="Johntheripper" alt="Johntheripper" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
