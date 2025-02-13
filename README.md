@@ -12,7 +12,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r3vskd&theme=tokyonight)]()
 
 ### 🏆 Trofeos GitHub
-[![Trophy](https://github-profile-trophy.vercel.app/?username=r3vskd&theme=tokyonight)]()
+[![Trophy](https://github-profile-trophy.vercel.app/?username=r3vskd&theme=tokyonight&row=2&column=4&no-frame=true&no-bg=true&margin-w=15&margin-h=15)]()
 
 </div>
 
