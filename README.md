@@ -9,6 +9,9 @@
 
 </div>
 
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=r3vskd&theme=tokyonight)]()
+
+
 <h2 align="center"> :hammer_and_wrench: Skills :point_right: Technologies & languages</h2>
 <div>
   <p align="center">
