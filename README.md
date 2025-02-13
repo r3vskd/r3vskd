@@ -4,14 +4,6 @@
 <h3 align="center"> :new_moon:  Leading the development of 6xargs </h3>
 
 <div align="center">
-    
-[![Stats](https://github-readme-stats.vercel.app/api/?username=r3vskd&count_private=true&theme=tokyonight&showicons=true)]()
-
-</div>
-
-<div align="center">
-    
-## 👋 ¡Hola, soy @r3vskd!
 
 [![Stats](https://github-readme-stats.vercel.app/api/?username=r3vskd&count_private=true&theme=tokyonight&showicons=true)]()
 
