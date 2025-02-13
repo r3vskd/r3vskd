@@ -14,8 +14,6 @@
 ### 🏆 Trofeos GitHub
 [![Trophy](https://github-profile-trophy.vercel.app/?username=r3vskd&theme=tokyonight)]()
 
-![](https://komarev.com/ghpvc/?username=r3vskd&color=blue)
-
 </div>
 
 
