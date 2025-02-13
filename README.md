@@ -9,7 +9,26 @@
 
 </div>
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=r3vskd&theme=tokyonight)]()
+<div align="center">
+    
+## 👋 ¡Hola, soy @r3vskd!
+
+[![Stats](https://github-readme-stats.vercel.app/api/?username=r3vskd&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3vskd&layout=compact&theme=tokyonight)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r3vskd&theme=tokyonight)]()
+
+### 🏆 Trofeos GitHub
+[![Trophy](https://github-profile-trophy.vercel.app/?username=r3vskd&theme=tokyonight)]()
+
+### 💻 Tecnologías
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![](https://komarev.com/ghpvc/?username=r3vskd&color=blue)
+
+</div>
 
 
 <h2 align="center"> :hammer_and_wrench: Skills :point_right: Technologies & languages</h2>
