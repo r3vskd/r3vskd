@@ -4,7 +4,9 @@
 <h3 align="center"> :new_moon:  Leading the development of 6xargs </h3>
 
 <div align="center">
-  [![Stats](https://github-readme-stats.vercel.app/api/?username=r3vskd&count_private=true&theme=tokyonight&showicons=true)]()
+    
+[![Stats](https://github-readme-stats.vercel.app/api/?username=r3vskd&count_private=true&theme=tokyonight&showicons=true)]()
+
 </div>
 
 <h2 align="center"> :hammer_and_wrench: Skills :point_right: Technologies & languages</h2>
