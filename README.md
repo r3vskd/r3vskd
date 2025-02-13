@@ -5,8 +5,6 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api/?username=r3vskd&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r3vskd&langs_count=5&theme=tokyonight)]()
-
 <h2 align="center"> :hammer_and_wrench: Skills :point_right: Technologies & languages</h2>
 <div>
   <p align="center">
