@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3vskd&layout=compact&theme=dark&hide_progress=true&border_radius=18&hide_border=true&icon_color=ff671e&show_icons=truerank_icon=github&ring_color=ff671e)]()
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r3vskd&theme=dark&hide_border=true&border_radius=18&short_numbers=true&date_format=%5BY.%5Dn.j&card_width=500&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r3vskd&theme=dark&hide_border=true&border_radius=18&short_numbers=true&date_format=%5BY.%5Dn.j&card_width=500&card_height=200)]()
 
 </div>
 
