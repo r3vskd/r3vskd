@@ -19,8 +19,8 @@
 
 <h2 align="center"> :hammer_and_wrench: Skills :point_right: Technologies & languages</h2>
 <div>
-  <p align="left">
-    <img align="left" src="https://skillicons.dev/icons?i=linux,neovim,html,css,js,py,bash,go,git,github,nodejs,bootstrap,docker,remix,postgresql,mysql,mongodb,expressjs,cloudflare,obsidian",  src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/insomnia-icon.png" tittle="insomnia" alt="insomnia" width="40" height="40" />
+  <p align="center">
+    <img align="left" src="https://skillicons.dev/icons?i=linux,neovim,html,css,js,py,bash,go,git,github,nodejs,bootstrap,docker,remix,postgresql,mysql,mongodb,expressjs,cloudflare,obsidian" />
     <img align="right" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/insomnia-icon.png" tittle="insomnia" alt="insomnia" width="40" height="40" />
 </a>
 </p>
