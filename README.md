@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=r3vskd&color=orange&style=plastic" alt="r3vskd" /> </p>
 <p align="center">
-  <img width="1644" height="831" alt="466669634-415aeb73-f7ca-4d1e-9ef8-7115df9d3dda" src="https://github.com/user-attachments/assets/6544897e-f332-45df-9af8-a781040a471d" />
+  <img width="1644" height="841" alt="Screenshot_1-modified" src="https://github.com/user-attachments/assets/998c7c96-d1e0-425a-beef-d567bd5d10d2" />
 <p/>
 
 <div align="center">
