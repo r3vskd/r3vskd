@@ -15,7 +15,7 @@
 
 </div>
 
-<h2 align="center">:coffee: Skills :point_right: Technologies & Languages</h2>
+<h2 align="center">:coffee: Skills :point_right: Technologies & Frameworks</h2>
 
 <div align="justify">
   <a href="https://go-skill-icons.vercel.app/">
