@@ -15,7 +15,7 @@
 
 </div>
 
-<h2 align="center">:hammer_and_wrench: Skills :point_right: Technologies & Languages</h2>
+<h2 align="center">:octocat: Skills :point_right: Technologies & Languages</h2>
 
 <div align="justify">
   <a href="https://go-skill-icons.vercel.app/">
@@ -23,7 +23,7 @@
   </a>
 </div>
 <br>
-<h2 align="center"> :fire: Skills :point_right: Hacking Tools:</h2>
+<h2 align="center"> :octocat: Skills :point_right: Hacking Tools:</h2>
 <div align="justify">
   <p align="justify">
     <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
