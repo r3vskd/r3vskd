@@ -6,9 +6,9 @@
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api/?username=r3vskd&count_private=true&theme=dark&showicons=true&border_radius=5)]()
+[![Stats](https://github-readme-stats.vercel.app/api/?username=r3vskd&count_private=true&theme=dark&showicons=true&border_radius=10)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3vskd&layout=compact&theme=dark&hide_progress=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3vskd&layout=compact&theme=dark&hide_progress=true&border_radius=10)]()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r3vskd&theme=dark)]()
 
