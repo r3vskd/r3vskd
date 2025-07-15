@@ -5,7 +5,7 @@
   <img width="1644" height="841" alt="Screenshot_1-modified" src="https://github.com/user-attachments/assets/998c7c96-d1e0-425a-beef-d567bd5d10d2"/>
 </p>
 
-<div align="center">
+<div align="justify">
 
 [![Stats](https://github-readme-stats.vercel.app/api/?username=r3vskd&count_private=true&theme=dark&showicons=true&border_radius=18&hide_border=true&icon_color=ff671e&show_icons=true&rank_icon=github&ring_color=ff671e)]()
 
