@@ -14,13 +14,12 @@
 
 </div>
 
-<h2 align="center"> :hammer_and_wrench: Skills :point_right: Technologies & languages</h2>
+<h2 align="center">:hammer_and_wrench: Skills :point_right: Technologies & Languages</h2>
+
 <div align="center">
-  <p align="center">
-  <a align="center" href="https://go-skill-icons.vercel.app/">
-    <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linux,neovim,html,css,js,py,bash,go,git,github,nodejs,bootstrap,docker,remix,postgresql,mysql,mongodb,expressjs,cloudflare,obsidian,insomnia,githubactions,terminal"/>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,neovim,html,css,js,py,bash,go,git,github,nodejs,bootstrap,docker,remix,postgresql,mysql,mongodb,expressjs,cloudflare,obsidian,insomnia,githubactions,terminal" />
   </a>
-</p>
 </div>
 <br>
 <h2 align="center"> :fire: Skills :point_right: Hacking Tools:</h2>
