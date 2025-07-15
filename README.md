@@ -32,7 +32,6 @@
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit" alt="Metasploit" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" title="Hydra" alt="Hydra" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" title="ffuf" alt="ffuf" width="40" height="40"/>&nbsp;
-  <img src="https://www.kali.org/tools/mimikatz/images/mimikatz-logo.svg" title="Mimikatz" alt="Mimikatz" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" title="Sqlmap" alt="Sqlmap" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg" title="Beef" alt="Beef" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/medusa/images/medusa-logo.svg" title="Medusa" alt="Medusa" width="40" height="40"/>&nbsp;
