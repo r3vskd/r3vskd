@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=r3vskd&color=blueviolet&style=plastic" alt="r3vskd" /> </p>
 <h1 align="center">Hi :v:, I'm Miguel</h1>
 <h1 align="center">Entrepreneur from México</h2>
-<h3 align="center"> :new_moon: Leading the development of 6xargs </h3>
+<h3 align="center"> :rocket: Leading the development of 6xargs </h3>
 
 <div align="center">
 
