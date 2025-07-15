@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=r3vskd&color=orange&style=plastic" alt="r3vskd" /> </p>
 <p align="center">
-  <img width="1646" height="841" alt="image" src="https://github.com/user-attachments/assets/415aeb73-f7ca-4d1e-9ef8-7115df9d3dda" />
+  <img width="1646" height="841" style="border-radius: 40px;" alt="image" src="https://github.com/user-attachments/assets/415aeb73-f7ca-4d1e-9ef8-7115df9d3dda" />
 <p/>
 <h3 align="center"> :rocket: Leading the development of 6xargs </h3>
 
