@@ -1,4 +1,5 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=r3vskd&color=orange&style=plastic" alt="r3vskd"/> 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=r3vskd&color=orange&style=flat" alt="r3vskd"/> 
 </p>
 <p align="center">
   <img width="1644" height="841" alt="Screenshot_1-modified" src="https://github.com/user-attachments/assets/998c7c96-d1e0-425a-beef-d567bd5d10d2"/>
