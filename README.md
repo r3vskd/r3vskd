@@ -8,7 +8,7 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api/?username=r3vskd&count_private=true&theme=dark&showicons=true)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3vskd&layout=compact&theme=dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3vskd&layout=compact&theme=dark&hide_progress=true)]()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r3vskd&theme=dark)]()
 
