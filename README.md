@@ -28,7 +28,7 @@
 <br>
 
 <h2 align="center"> :fire: Skills :point_right: Hacking Tools:</h2>
-<div align="center">
+<div align="justify">
   <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit" alt="Metasploit" width="40" height="40"/>&nbsp;
   <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" title="Hydra" alt="Hydra" width="40" height="40"/>&nbsp;
