@@ -21,7 +21,7 @@
 <div>
   <p align="center">
   <a align="center" href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=linux,neovim,html,css,js,py,bash,go,git,github,nodejs,bootstrap,docker,remix,postgresql,mysql,mongodb,expressjs,cloudflare,aws,obsidian" />
+    <img align="center" src="https://skillicons.dev/icons?i=linux,neovim,html,css,js,py,bash,go,git,github,nodejs,bootstrap,docker,remix,postgresql,mysql,mongodb,expressjs,cloudflare,obsidian" />
   </a>
 </p>
 </div>
