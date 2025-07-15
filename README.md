@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3vskd&layout=compact&theme=dark&hide_progress=true&border_radius=18&hide_border=true&icon_color=ff671e&show_icons=truerank_icon=github&ring_color=ff671e)]()
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
 
 </div>
 
