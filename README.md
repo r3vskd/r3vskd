@@ -19,7 +19,7 @@
 
 <h2 align="center"> :hammer_and_wrench: Skills :point_right: Technologies & languages</h2>
 <div>
-  <p align="justify">
+  <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=linux,neovim,html,css,js,py,bash,go,git,github,nodejs,bootstrap,docker,remix,postgresql,mysql,mongodb,expressjs,cloudflare,obsidian,insomnia,githubactions,terminal"/>
@@ -28,8 +28,8 @@
 </div>
 <br>
 <h2 align="center"> :fire: Skills :point_right: Hacking Tools:</h2>
-<div align="justify">
-  <p align="justify">
+<div align="center">
+  <p align="center">
     <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
     <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit" alt="Metasploit" width="40" height="40"/>&nbsp;
     <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" title="Hydra" alt="Hydra" width="40" height="40"/>&nbsp;
