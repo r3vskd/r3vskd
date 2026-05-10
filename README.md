@@ -27,7 +27,7 @@
       <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" title="Netcat" alt="Netcat" width="40" height="40"/>&nbsp;
       <img src="https://www.kali.org/tools/john/images/john-logo.svg" title="Johntheripper" alt="Johntheripper" width="40" height="40"/>&nbsp;
       <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
-      <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" title="Hashcat" alt="Hashcat" width="40" height="40"/>
+      <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" title="Hashcat" alt="Hashcat" width="40" height="40"/>&nbsp;
       <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" title="Maltego" alt="Maltego" width="40" height="40"/>&nbsp;
     </p>
   </a>
