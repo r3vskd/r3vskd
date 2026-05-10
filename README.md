@@ -20,13 +20,13 @@
 <div align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=linux,neovim,html,css,js,py,bash,go,git,github,nodejs,bootstrap,docker,remix,postgresql"
+      src="https://go-skill-icons.vercel.app/api/icons?i=linux,neovim,html,css,js,py,bash,go,git,github,nodejs,bootstrap,docker"
     />
   </a>
   <br>
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,expressjs,cloudflare,obsidian,insomnia,githubactions,terminal"
+      src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,expressjs,cloudflare,obsidian,insomnia,githubactions,terminal,remix,postgresql"
     />
   </a>
   <br>
