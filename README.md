@@ -26,7 +26,7 @@
   <br>
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,expressjs,cloudflare,obsidian,insomnia,terminal,remix,postgresql"
+      src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,expressjs,cloudflare,obsidian,insomnia,terminal,remix,postgresql,sentry"
     />
   </a>
   <br>
