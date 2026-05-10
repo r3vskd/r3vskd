@@ -5,7 +5,7 @@
   <img width="1644" height="841" alt="Screenshot_1-modified" src="https://github.com/user-attachments/assets/998c7c96-d1e0-425a-beef-d567bd5d10d2"/>
 </p>
 
-<div align="justify">
+<div align="align="center"">
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r3vskd&theme=dark&hide_border=true&border_radius=18&short_numbers=true&date_format=%5BY.%5Dn.j&card_width=500&card_height=200)]() -->
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  <a href="https://go-skill-icons.vercel.app/">
+  <a align="center" href="https://go-skill-icons.vercel.app/">
     <img align="center"
       src="https://go-skill-icons.vercel.app/api/icons?i=linux,neovim,html,css,js,py,bash,go,git,github,nodejs,bootstrap,docker,remix,postgresql,mysql,mongodb,expressjs,cloudflare,obsidian,insomnia,githubactions,terminal"
     />
