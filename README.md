@@ -16,21 +16,45 @@
 <div align="justify">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,neovim,html,css,js,py,bash,go,git,github,nodejs,bootstrap,docker,remix,postgresql,mysql,mongodb,expressjs,cloudflare,obsidian,insomnia,githubactions,terminal"/>
-    <table border="0" style="border:none">
-      <tr>
-        <td><img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="40"></td>
-        <td><img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="40"></td>
-        <td><img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="40"></td>
-        <td><img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" width="40"></td>
-        <td><img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="40"></td>
-        <td><img src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg" width="40"></td>
-        <td><img src="https://www.kali.org/tools/medusa/images/medusa-logo.svg" width="40"></td>
-        <td><img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="40"></td>
-        <td><img src="https://www.kali.org/tools/john/images/john-logo.svg" width="40"></td>
-        <td><img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="40"></td>
-        <td><img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="40"></td>
-        <td><img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="40"></td>
-      </tr>
-    </table>
+<table border="0" style="border:none; border-collapse:collapse;">
+  <tr style="border:none;">
+    <td style="border:none;">
+      <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="40">
+    </td>
+    <td style="border:none;">
+      <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="40">
+    </td>
+    <td style="border:none;">
+      <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="40">
+    </td>
+    <td style="border:none;">
+      <img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" width="40">
+    </td>
+    <td style="border:none;">
+      <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="40">
+    </td>
+    <td style="border:none;">
+      <img src="https://www.kali.org/tools/beef-xss/images/beef-xss-logo.svg" width="40">
+    </td>
+    <td style="border:none;">
+      <img src="https://www.kali.org/tools/medusa/images/medusa-logo.svg" width="40">
+    </td>
+    <td style="border:none;">
+      <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="40">
+    </td>
+    <td style="border:none;">
+      <img src="https://www.kali.org/tools/john/images/john-logo.svg" width="40">
+    </td>
+    <td style="border:none;">
+      <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="40">
+    </td>
+    <td style="border:none;">
+      <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="40">
+    </td>
+    <td style="border:none;">
+      <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="40">
+    </td>
+  </tr>
+</table>
   </a>
 </div>
