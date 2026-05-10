@@ -32,7 +32,3 @@
     </p>
   </a>
 </div>
-<br>
-<h2 align="center"> :tea: Skills :point_right: Hacking Tools:</h2>
-<div align="justify">
-</div>
