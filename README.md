@@ -15,7 +15,7 @@
 
 <div align="justify">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,neovim,html,css,js,py,bash,go,git,github,nodejs,bootstrap,docker,remix,postgresql,mysql,mongodb,expressjs,cloudflare,obsidian,insomnia,githubactions,terminal" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,neovim,html,css,js,py,bash,go,git,github,nodejs,bootstrap,docker,remix,postgresql,mysql,mongodb,expressjs,cloudflare,obsidian,insomnia,githubactions,terminal"/>
     <p align="justify">
       <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
       <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit" alt="Metasploit" width="40" height="40"/>&nbsp;
@@ -27,7 +27,7 @@
       <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" title="Netcat" alt="Netcat" width="40" height="40"/>&nbsp;
       <img src="https://www.kali.org/tools/john/images/john-logo.svg" title="Johntheripper" alt="Johntheripper" width="40" height="40"/>&nbsp;
       <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
-      <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" title="Hashcat" alt="Hashcat" width="40" height="40"/>&nbsp;
+      <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" title="Hashcat" alt="Hashcat" width="40" height="40"/>
       <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" title="Maltego" alt="Maltego" width="40" height="40"/>&nbsp;
     </p>
   </a>
