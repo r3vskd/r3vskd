@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="1644" height="841" alt="Screenshot_1-modified" src="https://github.com/user-attachments/assets/998c7c96-d1e0-425a-beef-d567bd5d10d2"/>
-  <img width="1371" height="698" alt="image" src="https://github.com/user-attachments/assets/b5ea666c-2d04-4a82-9881-9dfefbd72cc2" />
-
+  <img width="1371" height="698" alt="image" src="https://github.com/user-attachments/assets/14d09db1-87aa-4034-aff0-ccdf9eb36a85" />
 </p>
 
 <div align="center">
