@@ -27,8 +27,6 @@
 
 </div>
 
-Cybersecurity
-
 <div align="center">
 
   <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="40" height="40" alt="Burp Suite" />
