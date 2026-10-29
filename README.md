@@ -2,10 +2,6 @@
   <img width="1740" height="904" alt="image" src="https://github.com/user-attachments/assets/c69ee512-062c-4e52-ad59-633458e3eaef" />
 </p>
 
-<p align="center">
-  <img width="1371" height="698" alt="image" src="https://github.com/user-attachments/assets/14d09db1-87aa-4034-aff0-ccdf9eb36a85" />
-</p>
-
 <div align="center">
 
   <!-- GitHub Streak -->
